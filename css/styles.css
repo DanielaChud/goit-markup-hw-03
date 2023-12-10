@@ -138,7 +138,7 @@ img {
   flex-direction: column;
 }
 
-.con-about-head {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -168,6 +168,7 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   line-height: 1.2;
+  margin-bottom: 8px;
  } 
  .list-text { 
   line-height: 1.5;
